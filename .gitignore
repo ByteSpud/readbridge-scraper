@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
